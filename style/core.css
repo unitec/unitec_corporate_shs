@@ -1,7 +1,11 @@
 /******** Core ********/
 a {
-    color: #BF2B31;
+    color: #0000ff;
     text-decoration: none;
+}
+
+a:hover {
+    color: #ffa54e;
 }
 
 /** Borders around forms **/
@@ -28,6 +32,14 @@ a {
 
 .block .header {
     background-color: #BF2B31;
+}
+
+.block .content a {
+    color: #0000ff;
+}
+
+.block .content a:hover {
+    color: #ffa54e;
 }
 
 .calendartable .weekdays {
@@ -148,6 +160,7 @@ a {
 
 .forumpost .header a {
     color: #FFFFFF;
+    text-decoration: underline;
 }
 
 /** Assignments **/
@@ -163,9 +176,9 @@ a {
 }
 
 .navbar a {
-    color: #BF2B31;
+    color: #0000ff;
 }
 
 .navbar a:hover {
-    color: #FFA54E;
+    color: #ffa54e;
 }
