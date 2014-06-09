@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Unitec Corporate Theme
+ * Unitec SHS Theme
  *
  * @package   theme_unitec_corporate_shs
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
